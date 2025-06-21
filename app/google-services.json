@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "784186973704",
+    "firebase_url": "https://login-19c41-default-rtdb.firebaseio.com",
+    "project_id": "login-19c41",
+    "storage_bucket": "login-19c41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784186973704:android:3676d1483a19a111a03bbd",
+        "android_client_info": {
+          "package_name": "com.example.attendance_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784186973704-rr5er43f3alcm2pg42lcslkka1ppmojh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpTR87iPMrr1SwC-ZAETtR53eyN1uGSq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784186973704-rr5er43f3alcm2pg42lcslkka1ppmojh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784186973704:android:1a2f8fde76fe2c88a03bbd",
+        "android_client_info": {
+          "package_name": "com.example.fruit_quality"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784186973704-rr5er43f3alcm2pg42lcslkka1ppmojh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpTR87iPMrr1SwC-ZAETtR53eyN1uGSq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784186973704-rr5er43f3alcm2pg42lcslkka1ppmojh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784186973704:android:7beb176bf3eba9ada03bbd",
+        "android_client_info": {
+          "package_name": "com.example.rescue_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784186973704-rr5er43f3alcm2pg42lcslkka1ppmojh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpTR87iPMrr1SwC-ZAETtR53eyN1uGSq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784186973704-rr5er43f3alcm2pg42lcslkka1ppmojh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

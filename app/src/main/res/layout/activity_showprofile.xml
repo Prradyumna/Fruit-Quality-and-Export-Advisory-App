@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login"
+    app:cardElevation="8dp"
+    app:cardCornerRadius="8dp"
+    android:layout_margin="10dp"
+    android:layout_marginTop="10dp"
+    tools:context=".Showprofile">
+
+    <LinearLayout
+        android:layout_width="300dp"
+        android:layout_height="280dp"
+        android:layout_marginLeft="50dp"
+
+        android:layout_marginTop="10dp"
+        >
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:id="@+id/img1"
+            android:layout_marginLeft="50dp"
+            android:layout_gravity="center"/>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="6dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="40dp"
+        android:orientation="vertical">
+
+
+
+
+        <TextView
+            android:id="@+id/txtdname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="300dp"
+            android:text="Arya"
+            android:textColor="@color/black"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/txthname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:text="Arya"
+            android:textColor="@color/black"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/txtadress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:text="Arya"
+            android:textColor="@color/black"
+            android:textSize="20sp" />
+
+
+
+<!--        <Button-->
+<!--            android:id="@+id/btnupdate"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:layout_marginTop="50dp"-->
+<!--            android:width="170dp"-->
+<!--            android:layout_gravity="center"-->
+<!--            android:text="Update" />-->
+
+<!--        <Button-->
+<!--            android:id="@+id/btndelete"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:layout_marginTop="10dp"-->
+<!--            android:width="170dp"-->
+<!--            android:layout_gravity="center"-->
+<!--            android:text="Delete" />-->
+
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>
